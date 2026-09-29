@@ -1,0 +1,8 @@
+{
+  "name": "Maersk Training - AI-Assisted Pitch Creation",
+  "description": "Enterprise prototype for Maersk Training commercial sellers to turn customer context into tailored, structured presentations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
